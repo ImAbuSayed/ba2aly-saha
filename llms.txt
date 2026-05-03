@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور الليل ونبض الروح
+> في عينيك سر قلبي يبوح
+> خلينا سوا نداوي الجروح
+> قبل العمر ما يمر ويروح
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
